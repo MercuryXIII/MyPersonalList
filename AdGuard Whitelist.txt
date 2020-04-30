@@ -3,11 +3,9 @@
 
 # Amazon Prime Video and Amazon CDN
 @@||eu.api.amazonvideo.com^$important
-@@||device-metrics-us.amazon.com^$important
 @@||fls-eu.amazon.com^$important
 @@||fls-na.amazon.com^$important
 @@||cloudfront.net^$important
-@@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
 @@||amazonaws.com^$important
 @@||s3.amazonaws.com^$important
