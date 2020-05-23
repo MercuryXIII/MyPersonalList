@@ -48,7 +48,6 @@
 @@||app.getsentry.com^$important
 @@||apps.skype.com^$important
 @@||apresolve.spotify.com^$important
-@@||arc.msn.com^$important
 @@||assets.xboxlive.com^$important
 @@||assets1.xboxlive.com^$important
 @@||attestation.xboxlive.com^$important
