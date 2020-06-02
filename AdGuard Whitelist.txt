@@ -215,3 +215,6 @@
 @@||xncsi.xboxlive.com^$important
 @@||xnotify.xboxlive.com^$important
 @@||xsts.auth.xboxlive.com^$important
+
+# Prolific
+@@||qualtrics.com^$important
