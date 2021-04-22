@@ -33,6 +33,9 @@
 @@||iadsdk.apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 
+# Unbreaks Apple Podcast for some reason
+@@||chtbl.com^$important
+
 
 
 # Prolific
